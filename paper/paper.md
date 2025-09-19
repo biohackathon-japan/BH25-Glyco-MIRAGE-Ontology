@@ -13,8 +13,14 @@ tags:
   - Metadata
 authors:
   - name: Achille Zappa
+    orcid: 00000-0003-4040-9620
     affiliation: 1
+  - name: Achille Zappa
+    orcid: 0000-0003-4040-9620
+    affiliation: 1  
 affiliations:
+  - name: SOKA University, Glycan and Life Systems Integration Center (GaLSIC), Hachioji, Tokyo, Japan
+    index: 1
   - name: SOKA University, Glycan and Life Systems Integration Center (GaLSIC), Hachioji, Tokyo, Japan
     index: 1
 date: 19 September 2025
