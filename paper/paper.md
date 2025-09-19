@@ -25,7 +25,7 @@ biohackathon_url:   "https://2025.biohackathon.org/"
 biohackathon_location: "Mie, Japan, 2025"
 group: Glyco-MIRAGE-Ontology
 git_url: https://github.com/biohackathon-japan/BH25-Glyco-MIRAGE-Ontology
-authors_short: Dr. Achille Zappa Ph.D Lecturer at SOKA University, Glycan and Life Systems Integration Center (GaLSIC), Hachioji, Tokyo, Japan. Research interests include Semantic Web Technologies, Semantic Data Mashup, Linked Data, Data Management, Data Governance, Knowledge Engineering, Big Data Integration, Semantic Integration in various domains: Life Sciences & Health Care, Glycomics, Genomics, Proteomics.
+authors_short: Dr. Achille Zappa Ph.D
 ---
 
 # Abstract
