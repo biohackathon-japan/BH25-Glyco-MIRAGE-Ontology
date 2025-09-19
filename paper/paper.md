@@ -21,8 +21,6 @@ authors:
 affiliations:
   - name: SOKA University, Glycan and Life Systems Integration Center (GaLSIC), Hachioji, Tokyo, Japan
     index: 1
-  - name: SOKA University, Glycan and Life Systems Integration Center (GaLSIC), Hachioji, Tokyo, Japan
-    index: 1
 date: 19 September 2025
 cito-bibliography: paper.bib
 event: BH25JP
