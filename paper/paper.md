@@ -13,7 +13,7 @@ tags:
   - Metadata
 authors:
   - name: Achille Zappa
-    orcid: 00000-0003-4040-9620
+    orcid: 0000-0003-4040-9620
     affiliation: 1
   - name: Achille Zappa
     orcid: 0000-0003-4040-9620
