@@ -25,7 +25,7 @@ biohackathon_url:   "https://2025.biohackathon.org/"
 biohackathon_location: "Mie, Japan, 2025"
 group: Glyco-MIRAGE-Ontology
 git_url: https://github.com/biohackathon-japan/BH25-Glyco-MIRAGE-Ontology
-authors_short: Dr. Achille Zappa Ph.D
+authors_short: Achille Zappa
 ---
 
 # Abstract
